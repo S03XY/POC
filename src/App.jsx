@@ -160,6 +160,11 @@ export const App = () => {
 
   return (
     <div>
+      <span>
+        There was no admin mentioned in the assignment so the current admin is
+        0x5CA43D0639E02D8c7Bd748cd7dF4C60ac5A9829E
+      </span>
+
       <div className="mt">
         <button onClick={onhandleconnect}>
           {provider !== undefined ? (
