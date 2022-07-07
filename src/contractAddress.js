@@ -1,0 +1,4 @@
+export const contractAddress = {
+  POC_TOKEN: "0x09efa88A601f7eae8602bfCAec4D55f61B300a97",
+  POC_CONTRACT: "0x8066b41906316AE196f91b9Fe82972ce43caDce5",
+};
